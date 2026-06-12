@@ -1,4 +1,4 @@
-# Image-Download-and-upload-Small-project-using-Django-Bootstrap
+# Image-Download-and-upload-Small-project
 
 I have worked on another small project using Python/Django &amp; Bootstrap.
 
