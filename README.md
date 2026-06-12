@@ -9,6 +9,8 @@ I have worked on another small project using Python/Django &amp; Bootstrap.
       - Search with Filters 
       - Display messages if image existing or not.
 
+Tech Stack :- HTML,Python
+
 
 **Home page
 ![h1](https://user-images.githubusercontent.com/61369686/198101024-8205eb92-41e0-46df-b2fe-c182cc91d683.JPG)
@@ -34,3 +36,4 @@ I have worked on another small project using Python/Django &amp; Bootstrap.
 
 
 Thanks
+Happy Learning
